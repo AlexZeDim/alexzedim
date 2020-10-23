@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello there!
+
+My name is Sasha. 
+
+I am a back-end node.js dev but I also capable of doing some front-end staff via SSR framework of React, called Next.js.
+
+You may also find me on: [StackOverflow](https://stackoverflow.com/users/7475615/alexzedim)
+
+![AlexZeDim's github stats](https://github-readme-stats.vercel.app/api?username=alexzedim&count_private=true)
