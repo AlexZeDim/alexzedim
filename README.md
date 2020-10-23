@@ -24,8 +24,8 @@ Most of my open source projects are relevant with World of Warcraft, so if you a
 
 You may also find me on [StackOverflow](https://stackoverflow.com/users/7475615/alexzedim)
 
-Technologies:
+:tools: I am working with:
 ###
-![](https://img.shields.io/badge/IDE-WebStorm-informational?style=flat&logo=webstorm&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/IDE-WebStorm-informational?style=flat&logo=webstorm&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 
 ![AlexZeDim's github stats](https://github-readme-stats.vercel.app/api?username=alexzedim&count_private=true)
