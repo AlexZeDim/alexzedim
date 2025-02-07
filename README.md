@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### 🥳 About me:
 ##
 
-My name is Sasha. If you are looking for any advice relative with the topic below or just want to contact me, you can do it via telegram: `alexzedim`. And you may also find me via [LinkedIn](https://www.linkedin.com/in/alexzedim/), [StackOverflow](https://stackoverflow.com/users/7475615/alexzedim), and ENS [AlexZeDim.eth](https://alexzedim.eth).
+My name is Sasha. Yyou may find me via [LinkedIn](https://www.linkedin.com/in/alexzedim/), [StackOverflow](https://stackoverflow.com/users/7475615/alexzedim), and ENS [AlexZeDim.eth](https://alexzedim.eth).
 
  - Microservices & Back-End: ![](https://img.shields.io/badge/code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a) | ![](https://img.shields.io/badge/code-Nestjs-informational?style=flat&logo=nestjs&logoColor=white&color=2bbc8a) | ![](https://img.shields.io/badge/code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a) | ![](https://img.shields.io/badge/code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
  - Front-End: ![](https://img.shields.io/badge/front-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=2bbc8a) | ![](https://img.shields.io/badge/front-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a).
