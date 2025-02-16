@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### 🥳 About me:
 ##
 
-My name is Sasha. Yyou may find me via [LinkedIn](https://www.linkedin.com/in/alexzedim/), [StackOverflow](https://stackoverflow.com/users/7475615/alexzedim), and ENS [AlexZeDim.eth](https://alexzedim.eth).
+My name is Sasha & you may find me via [LinkedIn](https://www.linkedin.com/in/alexzedim/), [StackOverflow](https://stackoverflow.com/users/7475615/alexzedim), and ENS [AlexZeDim.eth](https://alexzedim.eth).
 
  - Microservices & Back-End: ![](https://img.shields.io/badge/code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a) | ![](https://img.shields.io/badge/code-Nestjs-informational?style=flat&logo=nestjs&logoColor=white&color=2bbc8a) | ![](https://img.shields.io/badge/code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a) | ![](https://img.shields.io/badge/code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
  - Front-End: ![](https://img.shields.io/badge/front-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=2bbc8a) | ![](https://img.shields.io/badge/front-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a).
